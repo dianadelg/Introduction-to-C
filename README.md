@@ -1,4 +1,4 @@
-# Introduction-to-C
+# Introduction-to-C, fall 2018 class
 
 1.1 gcd: Reading arguments
 Write a program gcd that computes the greatest common divisor (GCD) of two integers. gcd takes
